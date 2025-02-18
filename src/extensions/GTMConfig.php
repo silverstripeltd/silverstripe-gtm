@@ -5,7 +5,7 @@ namespace gorriecoe\GTM\Extensions;
 use SilverStripe\Forms\FieldList;
 use SilverStripe\Forms\TextField;
 use SilverStripe\Forms\LiteralField;
-use SilverStripe\ORM\DataExtension;
+use SilverStripe\Core\Extension;
 use SilverStripe\Core\Environment;
 
 /**
@@ -13,7 +13,7 @@ use SilverStripe\Core\Environment;
  *
  * @package silverstripe-gtm
  */
-class GTMConfig extends DataExtension
+class GTMConfig extends Extension
 {
     /**
      * Database fields
