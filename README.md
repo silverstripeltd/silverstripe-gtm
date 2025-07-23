@@ -9,7 +9,7 @@ composer require gorriecoe/silverstripe-gtm
 
 ## Requirements
 
-- silverstripe/cmframework ^4.0
+- silverstripe/cmframework ^6.0
 
 ## Maintainers
 
