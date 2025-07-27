@@ -3,7 +3,7 @@
 namespace gorriecoe\GTM\View;
 
 use SilverStripe\View\TemplateGlobalProvider;
-use SilverStripe\View\ArrayData;
+use SilverStripe\Model\ArrayData;
 use SilverStripe\SiteConfig\SiteConfig;
 use SilverStripe\Core\Environment;
 use SilverStripe\Control\Controller;
